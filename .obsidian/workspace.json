@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作流程/未命名.md",
+                "file": "工作流程/开始.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "开始"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#新对话",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,9 +214,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e27335c333e1d6",
+  "active": "1b40ca7c1ac3da8e",
   "lastOpenFiles": [
-    "工作流程/未命名.md",
+    "Tars/prompt.zh.md",
+    "工作流程/开始.md",
+    "Tars",
     "md 文件到底 怎么写呢？.md",
     "未命名 1",
     "工作流程",
