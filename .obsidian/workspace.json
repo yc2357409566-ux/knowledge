@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "md 文件到底 怎么写呢？"
             }
-          },
-          {
-            "id": "b45659deb85839fb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-03-20 21.44.22.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-20 21.44.22.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +201,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b45659deb85839fb",
+  "active": "76e27335c333e1d6",
   "lastOpenFiles": [
-    "md 文件到底 怎么写呢？.md",
+    "未命名",
     "Excalidraw/Drawing 2026-03-20 21.44.22.excalidraw.md",
+    "md 文件到底 怎么写呢？.md",
     "Excalidraw",
     "未命名.base",
     "Excalidraw/Drawing 2026-03-20 21.29.30.excalidraw.md",
