@@ -11,14 +11,17 @@
             "id": "264a551aa787d742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "success？.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "success？"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名 1"
             }
           }
         ]
@@ -165,13 +168,23 @@
               "icon": "lucide-list",
               "title": "2222 的大纲"
             }
+          },
+          {
+            "id": "bde4dfffab24515b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +199,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1b40ca7c1ac3da8e",
+  "active": "264a551aa787d742",
   "lastOpenFiles": [
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "2026-03-20.md",
+    "未命名 1.base",
+    "未命名.base",
+    "success？.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
@@ -204,7 +223,6 @@
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "success？.md"
+    "copilot"
   ]
 }
