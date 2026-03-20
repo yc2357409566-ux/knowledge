@@ -11,13 +11,30 @@
             "id": "0da5c5e6e0821177",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "md 文件到底 怎么写呢？.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "md 文件到底 怎么写呢？"
+            }
+          },
+          {
+            "id": "b45659deb85839fb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-20 21.44.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-20 21.44.22.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,15 +210,18 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "yolo:打开聊天": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0da5c5e6e0821177",
+  "active": "b45659deb85839fb",
   "lastOpenFiles": [
+    "md 文件到底 怎么写呢？.md",
+    "Excalidraw/Drawing 2026-03-20 21.44.22.excalidraw.md",
+    "Excalidraw",
     "未命名.base",
     "Excalidraw/Drawing 2026-03-20 21.29.30.excalidraw.md",
     "copilot/copilot-custom-prompts/Emojify.md",
-    "Excalidraw",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
