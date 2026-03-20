@@ -185,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -193,10 +194,6 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "yolo:打开聊天": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "templater-obsidian:Templater": false
     }
