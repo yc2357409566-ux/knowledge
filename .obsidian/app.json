@@ -1,4 +1,12 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "./附件"
+  "attachmentFolderPath": "./附件",
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }
