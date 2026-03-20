@@ -11,12 +11,14 @@
             "id": "e9fa333dd24f8373",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "工作流程/附件/Pasted image 20260321000417.png"
+                "file": "工作流程/入职准备.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260321000417"
+              "icon": "lucide-file",
+              "title": "入职准备"
             }
           }
         ]
@@ -196,8 +198,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e27335c333e1d6",
+  "active": "e9fa333dd24f8373",
   "lastOpenFiles": [
+    "工作流程/附件/Pasted image 20260321000417.png",
     "工作流程/附件/Pasted image 20260321000524.png",
     "工作流程/附件/Pasted image 20260321000905.png",
     "工作流程/附件/Pasted image 20260321002535.png",
@@ -205,7 +208,6 @@
     "工作流程/附件/Pasted image 20260320235937.png",
     "工作流程/入职准备.md",
     "工作流程/谷歌账号&邮箱注册流程.md",
-    "工作流程/附件/Pasted image 20260321000417.png",
     "工作流程/附件",
     "工作流程/新人入职指南.md",
     "附件/Pasted image 20260320235929.png",
