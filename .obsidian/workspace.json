@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1bb36d1fc3fca62",
+        "id": "b1fecc4c4cd436f1",
         "type": "tabs",
         "children": [
           {
-            "id": "5951f5003ea64efe",
+            "id": "e9fa333dd24f8373",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "工作流程/准备工作.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "准备工作"
             }
           }
         ]
@@ -194,9 +198,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5951f5003ea64efe",
+  "active": "e9fa333dd24f8373",
   "lastOpenFiles": [
+    "工作流程/附件/Pasted image 20260320230745.png",
     "工作流程/准备工作.md",
+    "工作流程/附件",
     "Pasted image 20260320225957.png",
     "未命名.md",
     "Drawing 2026-03-20 23.00.14.excalidraw.md",
