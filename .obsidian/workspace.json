@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作流程/入职准备.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "入职准备"
-            }
-          },
-          {
-            "id": "b4894ef7d66812f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "工作流程/iOS美区账号注册教程.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "iOS美区账号注册教程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,12 +208,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4894ef7d66812f3",
+  "active": "e9fa333dd24f8373",
   "lastOpenFiles": [
+    "工作流程/入职准备.md",
+    "工作流程/iOS美区账号注册教程.md",
     "Dream.md",
     "工作流程/README.md",
-    "工作流程/iOS美区账号注册教程.md",
-    "工作流程/入职准备.md",
     "Diary",
     "入职准备.pdf",
     "工作流程/附件/Pasted image 20260321000417.png",
