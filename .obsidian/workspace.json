@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dream.md",
+                "file": "工作流程/iOS美区账号注册教程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dream"
+              "title": "iOS美区账号注册教程"
             }
           }
         ],
@@ -233,9 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e27335c333e1d6",
+  "active": "b4894ef7d66812f3",
   "lastOpenFiles": [
     "Dream.md",
+    "工作流程/README.md",
+    "工作流程/iOS美区账号注册教程.md",
     "工作流程/入职准备.md",
     "Diary",
     "入职准备.pdf",
@@ -279,7 +281,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md"
+    "copilot/copilot-custom-prompts/Simplify.md"
   ]
 }
