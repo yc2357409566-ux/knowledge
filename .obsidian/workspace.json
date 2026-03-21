@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "入职准备"
             }
+          },
+          {
+            "id": "b4894ef7d66812f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "做梦.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做梦"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +233,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9fa333dd24f8373",
+  "active": "b4894ef7d66812f3",
   "lastOpenFiles": [
+    "做梦.md",
+    "工作流程/入职准备.md",
+    "Diary",
     "入职准备.pdf",
     "工作流程/附件/Pasted image 20260321000417.png",
     "工作流程/附件/Pasted image 20260321000524.png",
@@ -217,12 +245,10 @@
     "工作流程/附件/Pasted image 20260321002535.png",
     "工作流程/附件/Pasted image 20260321002557.png",
     "工作流程/附件/Pasted image 20260320235937.png",
-    "工作流程/入职准备.md",
     "工作流程/谷歌账号&邮箱注册流程.md",
     "工作流程/附件",
     "工作流程/新人入职指南.md",
     "附件/Pasted image 20260320235929.png",
-    "未命名.md",
     "工作流程/附件/Pasted image 20260320230745.png",
     "附件",
     "Pasted image 20260320225957.png",
@@ -254,8 +280,6 @@
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts/Summarize.md"
   ]
 }
