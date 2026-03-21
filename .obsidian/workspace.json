@@ -11,10 +11,24 @@
             "id": "020c119f83ad3de6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "法语学习/日计划/2026-03-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-03-21"
             }
           }
         ]
@@ -194,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76e27335c333e1d6",
+  "active": "020c119f83ad3de6",
   "lastOpenFiles": [
     "法语学习/资源库/资源库索引.md",
     "法语学习/周计划/第4周_4月11-20日_对话实践与巩固.md",
