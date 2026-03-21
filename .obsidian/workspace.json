@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1fecc4c4cd436f1",
+        "id": "ad5fa01db30a3e58",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fa333dd24f8373",
+            "id": "580d0371d3561441",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作流程/入职准备.md",
+                "file": "法语学习/日计划/2026-03-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "入职准备"
+              "title": "2026-03-21"
             }
           }
         ]
@@ -208,10 +208,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9fa333dd24f8373",
+  "active": "76e27335c333e1d6",
   "lastOpenFiles": [
-    "工作流程/iOS美区账号注册教程.md",
+    "法语学习/📖_使用说明.txt",
+    "法语学习/QUICK_START.md",
+    "法语学习/进度追踪/学习进度追踪.md",
+    "法语学习/资源库/推荐学习工具与资源.md",
     "工作流程/入职准备.md",
+    "法语学习/日计划/生成日计划脚本.py",
+    "法语学习/日计划/2026-03-21.md",
+    "法语学习/月度计划/第1个月_3月_A1初级_发音与基础.md",
+    "法语学习/README.md",
+    "法语学习/进度追踪",
+    "法语学习/资源库",
+    "法语学习/月度计划",
+    "法语学习/日计划",
+    "法语学习/周计划",
+    "法语学习",
+    "工作流程/iOS美区账号注册教程.md",
     "Dream.md",
     "工作流程/README.md",
     "Diary",
@@ -227,17 +241,11 @@
     "工作流程/新人入职指南.md",
     "附件/Pasted image 20260320235929.png",
     "工作流程/附件/Pasted image 20260320230745.png",
-    "附件",
     "Pasted image 20260320225957.png",
     "Drawing 2026-03-20 23.00.14.excalidraw.md",
-    "工作流程/未命名.base",
     "工作流程/md 文件到底 怎么写呢？.md",
     "Tars/prompt.zh.md",
-    "Tars",
-    "未命名 1",
-    "工作流程",
     "Excalidraw/Drawing 2026-03-20 21.44.22.excalidraw.md",
-    "Excalidraw",
     "Excalidraw/Drawing 2026-03-20 21.29.30.excalidraw.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
@@ -248,14 +256,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "未命名.canvas",
     "2026-03-20.md",
-    "未命名 1.base",
-    "success？.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Simplify.md"
+    "success？.md"
   ]
 }
