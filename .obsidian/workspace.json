@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8dd1a09c1dd9044",
+        "id": "c9c8f2def2c15a85",
         "type": "tabs",
         "children": [
           {
-            "id": "020c119f83ad3de6",
+            "id": "1ce1ae12512d6d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "法语学习/日计划/2026-03-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-23"
+              "title": "新标签页"
             }
           }
         ]
@@ -208,8 +194,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "020c119f83ad3de6",
+  "active": "1ce1ae12512d6d36",
   "lastOpenFiles": [
+    "法语学习/日计划/2026-03-23.md",
     "法语学习/日计划/2026-03-22.md",
     "法语学习/日计划/2026-03-21.md",
     "法语学习/资源库/资源库索引.md",
@@ -236,7 +223,6 @@
     "法语学习/日计划/2027-03-10.md",
     "法语学习/日计划/2027-03-09.md",
     "法语学习/日计划/2027-03-08.md",
-    "法语学习/日计划/2027-03-07.md",
     "法语学习/📖_使用说明.txt",
     "法语学习/日计划/生成日计划脚本.py",
     "法语学习/进度追踪",
