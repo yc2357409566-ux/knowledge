@@ -35,10 +35,24 @@
             "id": "b4894ef7d66812f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Dream.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dream"
             }
           }
         ],
@@ -219,9 +233,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b4894ef7d66812f3",
+  "active": "76e27335c333e1d6",
   "lastOpenFiles": [
-    "做梦.md",
+    "Dream.md",
     "工作流程/入职准备.md",
     "Diary",
     "入职准备.pdf",
