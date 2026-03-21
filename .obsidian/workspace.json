@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作流程/iOS美区账号注册教程.md",
+                "file": "工作流程/入职准备.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iOS美区账号注册教程"
+              "title": "入职准备"
             }
           }
         ]
@@ -210,8 +210,8 @@
   },
   "active": "e9fa333dd24f8373",
   "lastOpenFiles": [
-    "工作流程/入职准备.md",
     "工作流程/iOS美区账号注册教程.md",
+    "工作流程/入职准备.md",
     "Dream.md",
     "工作流程/README.md",
     "Diary",
